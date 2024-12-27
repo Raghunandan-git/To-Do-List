@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>todo</title>
+    <link rel="stylesheet" href="todo.css">
+</head>
+<body style="background-color:silver;">
+    <center>
+        <div class="box">
+            <h1 style="color: aliceblue;">To do list</h1>
+            <input type="text" id="todo" name="todo" class="input" placeholder="enter text">
+            <button class="add" onclick="add()">Add</button>
+        </div>
+    </center>
+        <div class="task-box">
+            <h1>Tasks</h1>
+            <ul id="list" style="list-style-type:none;"></ul>
+        </div>
+    <script src="todo.js"></script>
+</body>
+</html>
