@@ -63,7 +63,6 @@ This is a beginner-friendly to-do list project designed to help users manage the
 
 ## 📸 Screenshots
 
-> *(You can replace the image URL with actual uploaded screenshots in your repo)*
 
 <img width="100%" alt="To-Do List UI" src="https://github.com/user-attachments/assets/f82bac40-e49d-4e37-98a6-1d955f5d561f" />
 
