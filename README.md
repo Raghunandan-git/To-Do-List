@@ -66,6 +66,19 @@ This is a beginner-friendly to-do list project designed to help users manage the
 
 <img width="100%" alt="To-Do List UI" src="https://github.com/user-attachments/assets/f82bac40-e49d-4e37-98a6-1d955f5d561f" />
 
+### `Adding task`
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/4b92f17a-a87c-478d-acce-a0cb45451f05" />
+
+### `Editing existing task`
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/b95dd363-0632-487e-9f28-7b932dd1e069" />
+
+
+### `Deleting existing task`
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/58c82cf0-abb6-451d-a607-97c21bfe1a95" />
+
 ---
 
 ## 🧑‍💻 Author
